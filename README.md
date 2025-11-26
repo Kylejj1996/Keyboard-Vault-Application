@@ -1,12 +1,10 @@
 ![Alternate 'text' description for the image](/KJohnsonFinalProject/Resources/KeyboardVaultIcon.png "Keyboard Vault Icon")
 
 # Keyboard Vault
+[ 📥 Download Application ](https://drive.google.com/drive/folders/1PpCTDi3Qs_V188zcS8ol-OPu-cu5fzie?usp=drive_link)
 > A desktop-based inventory and sales management system designed for the consumer electronics and IT industry.
 
----
-
-# Download Application Here
-https://drive.google.com/drive/folders/1PpCTDi3Qs_V188zcS8ol-OPu-cu5fzie?usp=sharing
+--- 
 
 ## 🔐 Manager Login Credentials
 - **Username:** `Manager`  
